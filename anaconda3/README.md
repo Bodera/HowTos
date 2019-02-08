@@ -7,8 +7,8 @@ You can download a Anaconda Distribution by clicking [here](https://www.anaconda
 
 ```bash
 $ source ~/anaconda*/bin/activate root
-$ anaconda-navigator
-$ conda --version
+(base)$ anaconda-navigator
+(base)$ conda --version
 ```
 
 ## License
